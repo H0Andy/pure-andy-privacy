@@ -1,4 +1,4 @@
-# pure-andy-privacy
+# coloreye
 
 ## Privacy Policy / プライバシーポリシー / 隐私政策
 
@@ -8,7 +8,7 @@
 
 ## Part 1: English (US/UK)
 
-**App Name:** pure-andy-privacy  
+**App Name:** coloreye  
 **Developer:** Independent Developer (Andy)  
 **Contact Email:** leiz11904@gmail.com
 
@@ -57,13 +57,13 @@ If we make changes to this privacy policy, we will update the "Last Updated" dat
 If you have any questions, concerns, or requests regarding privacy, please contact the developer:
 
 - **Email:** leiz11904@gmail.com
-- **Repository/Project Reference:** pure-andy-privacy
+- **Repository/Project Reference:** coloreye
 
 ---
 
 ## Part 2: 日本語 (Japanese)
 
-**アプリ名:** pure-andy-privacy  
+**アプリ名:** coloreye  
 **開発者:** 個人開発者 (Andy)  
 **連絡先メール:** leiz11904@gmail.com
 
@@ -112,13 +112,13 @@ If you have any questions, concerns, or requests regarding privacy, please conta
 プライバシーに関するご質問、ご懸念、ご要望がございましたら、開発者までご連絡ください。
 
 - **メール:** leiz11904@gmail.com
-- **リポジトリ/プロジェクト参照:** pure-andy-privacy
+- **リポジトリ/プロジェクト参照:** coloreye
 
 ---
 
 ## Part 3: 中文 (Simplified Chinese)
 
-**应用名称：** pure-andy-privacy  
+**应用名称：** coloreye  
 **开发者：** 个人开发者 (Andy)  
 **联系邮箱：** leiz11904@gmail.com
 
@@ -167,4 +167,4 @@ If you have any questions, concerns, or requests regarding privacy, please conta
 如果您对隐私有任何问题、疑虑或请求，请联系开发者：
 
 - **邮箱：** leiz11904@gmail.com
-- **仓库/项目参考：** pure-andy-privacy
+- **仓库/项目参考：** coloreye
